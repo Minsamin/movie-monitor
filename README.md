@@ -1,3 +1,8 @@
+## n8n flow
+
+<img width="1465" height="589" alt="image" src="https://github.com/user-attachments/assets/c0ef299d-847b-48bf-a288-6b716dd97649" />
+
+
 # BookMyShow Movie Monitor
 
 A self-hosted monitoring service that watches BookMyShow movie pages for booking opening and language availability changes.
@@ -354,3 +359,30 @@ git push -u origin main
 - n8n workflow overview.
 - Troubleshooting notes.
 - Git deployment instructions.
+
+
+### Screenshots
+<img width="2560" height="393" alt="image" src="https://github.com/user-attachments/assets/bead31f8-f8c2-4176-b202-00995e48b437" />
+
+<img width="1259" height="687" alt="image" src="https://github.com/user-attachments/assets/41b0df6c-ff29-4e90-82ab-6702e8c00437" />
+
+<img width="1271" height="1105" alt="image" src="https://github.com/user-attachments/assets/29b7c543-fd3b-4284-b0e0-0fb739b74ffe" />
+
+<img width="1261" height="669" alt="image" src="https://github.com/user-attachments/assets/3f0a09cc-374c-4a0f-bfec-1ff8c36d50ae" />
+
+<img width="1289" height="691" alt="image" src="https://github.com/user-attachments/assets/02f47119-9ede-4507-ad6f-17e228d86d10" />
+
+<img width="1289" height="1269" alt="image" src="https://github.com/user-attachments/assets/c8b26115-283c-443f-b2c1-ec6fe4d0289c" />
+
+<img width="1271" height="757" alt="image" src="https://github.com/user-attachments/assets/e4bdd6fe-463a-4491-bbbe-3e657b97a702" />
+
+<img width="1263" height="821" alt="image" src="https://github.com/user-attachments/assets/16da97ca-8f5e-4fb7-938c-038c92d8fd6d" />
+
+<img width="1235" height="761" alt="image" src="https://github.com/user-attachments/assets/9b94cbe5-8923-4a80-9786-4e3faeb59f06" />
+
+
+
+
+
+
+
